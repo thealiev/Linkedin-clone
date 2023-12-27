@@ -1,7 +1,5 @@
 # Features
 
-Link: https://linkedin-clone-a077e.web.app
-
 1. Authentication
 2. Start a Post
 3. Update a Post
